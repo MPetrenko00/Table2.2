@@ -1,0 +1,53 @@
+@import url("reset.css");
+
+.container{
+    width: 1200px;
+    margin: 0 auto;  
+}
+
+.box{
+    font-size: 0;
+    text-align: justify;
+}
+
+.card-1{
+    width: 400px;
+    height: 400px;
+    outline: 1px solid gray;
+    font-size: 16px;
+}
+
+
+.card-2{
+    width: 800px;
+    height: 200px;
+    outline: 1px solid gray;
+    font-size: 16px;
+    float:left;
+}
+
+
+.card-4{
+    width: 400px;
+    height: 400px;
+    outline: 1px solid gray;
+    font-size: 16px;
+}
+
+
+.green{
+    background-color: green;
+    font-size: 0px;
+}
+
+.yellow{
+    background-color: yellow;
+    font-size: 0px;
+}
+
+.pink{
+    background-color: pink;
+    font-size: 0px;
+}
+
+
