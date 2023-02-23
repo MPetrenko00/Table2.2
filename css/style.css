@@ -55,12 +55,10 @@
 
 .green{
     background-color: green;
-    font-size: 0px;
 }
 
 .yellow{
     background-color: yellow;
-    font-size: 0px;
 }
 
 .yellow > div {
@@ -75,7 +73,6 @@
 
 .pink{
     background-color: pink;
-    font-size: 0px;
 }
 
 .h-133{
